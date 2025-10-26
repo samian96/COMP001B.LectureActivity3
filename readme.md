@@ -11,3 +11,6 @@ added main element with aside, attached image file to.
 added background colors to main, aside, and nav
 used float to make 3 columns out of each section
 adjusted width using percentages (allows for screen size to adjust properly)
+- Update 4.
+added footer element with copyright in index.html
+added footer in css, colored background, cleared both
