@@ -1,0 +1,19 @@
+main {
+    background-color: greenyellow;
+    width: 20%; /*adjust width to 20% of the page*/
+    float: left; /*floats main element to the left*/
+}
+nav {
+    background-color: grey;
+    width: 20%; /*adjust width to 20% of the page*/
+    float: left; /*floats nav to the left*/
+}
+aside {
+    background-color: blueviolet;
+    width: 60%; /*adjust width to 60% of the page*/
+    float: left; /*floats aside element to the left*/
+}
+.class1 {
+    padding-left: 2px; /*adjust padding on image by 2px left*/
+    padding-top: 2px; /*adjust padding on image 2px from the top*/
+}
