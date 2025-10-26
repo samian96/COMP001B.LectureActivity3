@@ -22,5 +22,5 @@ aside {
 }
 footer {
     background-color: lightblue;
-    clear: both;
+    clear: both; /*adjusts so that floats will not over pass this element and cover it*/
 }
